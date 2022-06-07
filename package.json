@@ -1,0 +1,19 @@
+{
+  "name": "food_festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtori37/Food_Festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtori37/Food_Festival/issues"
+  },
+  "homepage": "https://github.com/vtori37/Food_Festival#readme"
+}
